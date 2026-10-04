@@ -133,19 +133,19 @@ Casual riders took longer trips on average—approximately **40–50 minutes or 
 
 ### Average Trip Duration by Day of the Week
 
-![Average trip duration by day of the week](Visualizations/average_trip_duration_by_day_of_week.png)
+![Average trip duration by day of the week](Visualizations/bikes/average_trip_duration_by_day_of_week.png)
 
 *Casual riders had longer average trips than members throughout the week, with the longest average durations occurring on weekends.*
 
 ### Total Rides by Day of the Week
 
-![Total rides by day of the week](Visualizations/total_rides_by_day_of_week.png)
+![Total rides by day of the week](Visualizations/bikes/total_rides_by_day_of_week.png)
 
 *Member ride volume remained relatively steady on weekdays. Casual ridership increased toward the weekend and peaked on Saturday and Sunday.*
 
 ### Total Rides by Hour of the Day
 
-![Total rides by hour of the day](Visualizations/total_rides_by_hour_of_day.png)
+![Total rides by hour of the day](Visualizations/bikes/total_rides_by_hour_of_day.png)
 
 *Member rides showed weekday morning and evening peaks. Casual rides increased through the day and were highest in the afternoon.*
 
